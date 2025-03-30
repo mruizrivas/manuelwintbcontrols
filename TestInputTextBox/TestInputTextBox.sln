@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.34601.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestInputTextBox", "TestInputTextBox.csproj", "{0D8AB4F7-0428-4A0B-852C-6D8407F37ADE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBoxInteger", "..\TextBoxInteger\TextBoxInteger.csproj", "{6122044E-847F-41A3-B490-AE5C5F645A04}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomTextBox", "..\CustomTextBox\CustomTextBox.csproj", "{6122044E-847F-41A3-B490-AE5C5F645A04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

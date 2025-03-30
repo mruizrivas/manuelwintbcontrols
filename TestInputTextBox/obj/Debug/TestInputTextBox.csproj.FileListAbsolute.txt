@@ -11,3 +11,16 @@ C:\Users\manue\source\repos\TestInputTextBox\obj\Debug\TestInputTextBox.csproj.C
 C:\Users\manue\source\repos\TestInputTextBox\obj\Debug\TestInputTextBox.csproj.CopyComplete
 C:\Users\manue\source\repos\TestInputTextBox\obj\Debug\TestInputTextBox.exe
 C:\Users\manue\source\repos\TestInputTextBox\obj\Debug\TestInputTextBox.pdb
+C:\Users\manue\source\repos\mruizrivas\manuelwintbcontrols\TestInputTextBox\bin\Debug\TestInputTextBox.exe.config
+C:\Users\manue\source\repos\mruizrivas\manuelwintbcontrols\TestInputTextBox\bin\Debug\TestInputTextBox.exe
+C:\Users\manue\source\repos\mruizrivas\manuelwintbcontrols\TestInputTextBox\bin\Debug\TestInputTextBox.pdb
+C:\Users\manue\source\repos\mruizrivas\manuelwintbcontrols\TestInputTextBox\bin\Debug\WindowsTextBoxControls.dll
+C:\Users\manue\source\repos\mruizrivas\manuelwintbcontrols\TestInputTextBox\bin\Debug\WindowsTextBoxControls.pdb
+C:\Users\manue\source\repos\mruizrivas\manuelwintbcontrols\TestInputTextBox\obj\Debug\TestInputTextBox.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\mruizrivas\manuelwintbcontrols\TestInputTextBox\obj\Debug\TestInputTextBox.Form1.resources
+C:\Users\manue\source\repos\mruizrivas\manuelwintbcontrols\TestInputTextBox\obj\Debug\TestInputTextBox.Properties.Resources.resources
+C:\Users\manue\source\repos\mruizrivas\manuelwintbcontrols\TestInputTextBox\obj\Debug\TestInputTextBox.csproj.GenerateResource.cache
+C:\Users\manue\source\repos\mruizrivas\manuelwintbcontrols\TestInputTextBox\obj\Debug\TestInputTextBox.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\mruizrivas\manuelwintbcontrols\TestInputTextBox\obj\Debug\TestInpu.D4E03709.Up2Date
+C:\Users\manue\source\repos\mruizrivas\manuelwintbcontrols\TestInputTextBox\obj\Debug\TestInputTextBox.exe
+C:\Users\manue\source\repos\mruizrivas\manuelwintbcontrols\TestInputTextBox\obj\Debug\TestInputTextBox.pdb
