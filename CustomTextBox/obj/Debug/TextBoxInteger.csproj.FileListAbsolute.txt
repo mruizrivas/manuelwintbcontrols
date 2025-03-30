@@ -1,0 +1,6 @@
+C:\Users\manue\source\repos\TextBoxInteger\bin\Debug\WindowsTextBoxControls.dll
+C:\Users\manue\source\repos\TextBoxInteger\bin\Debug\WindowsTextBoxControls.pdb
+C:\Users\manue\source\repos\TextBoxInteger\obj\Debug\TextBoxInteger.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\TextBoxInteger\obj\Debug\WindowsTextBoxControls.dll
+C:\Users\manue\source\repos\TextBoxInteger\obj\Debug\WindowsTextBoxControls.pdb
+C:\Users\manue\source\repos\TextBoxInteger\obj\Debug\TextBoxInteger.csproj.AssemblyReference.cache

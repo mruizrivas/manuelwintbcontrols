@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestInputTextBox", "TestInputTextBox.csproj", "{0D8AB4F7-0428-4A0B-852C-6D8407F37ADE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBoxInteger", "..\TextBoxInteger\TextBoxInteger.csproj", "{6122044E-847F-41A3-B490-AE5C5F645A04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D8AB4F7-0428-4A0B-852C-6D8407F37ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8AB4F7-0428-4A0B-852C-6D8407F37ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8AB4F7-0428-4A0B-852C-6D8407F37ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D8AB4F7-0428-4A0B-852C-6D8407F37ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6122044E-847F-41A3-B490-AE5C5F645A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6122044E-847F-41A3-B490-AE5C5F645A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6122044E-847F-41A3-B490-AE5C5F645A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6122044E-847F-41A3-B490-AE5C5F645A04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D9C7E82-C0D7-4641-B28D-4ADEFC12B806}
+	EndGlobalSection
+EndGlobal
