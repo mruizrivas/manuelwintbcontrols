@@ -1,0 +1,6 @@
+C:\Users\manue\source\repos\mruizrivas\manuelwintbcontrols\CustomTextBox\bin\Release\WindowsTextBoxControls.dll
+C:\Users\manue\source\repos\mruizrivas\manuelwintbcontrols\CustomTextBox\bin\Release\WindowsTextBoxControls.pdb
+C:\Users\manue\source\repos\mruizrivas\manuelwintbcontrols\CustomTextBox\obj\Release\CustomTextBox.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\mruizrivas\manuelwintbcontrols\CustomTextBox\obj\Release\CustomTextBox.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\mruizrivas\manuelwintbcontrols\CustomTextBox\obj\Release\WindowsTextBoxControls.dll
+C:\Users\manue\source\repos\mruizrivas\manuelwintbcontrols\CustomTextBox\obj\Release\WindowsTextBoxControls.pdb
